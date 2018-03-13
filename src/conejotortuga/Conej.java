@@ -3,7 +3,7 @@ package conejotortuga;
 
 import static java.lang.Thread.sleep;
 
-
+//tenemos un comentario
 public class Conej extends Thread {
     private Conejo c= new Conejo();
     private Tablero ta;
